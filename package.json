@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node ./src/server.js",
     "dev": "nodemon ./src/server.js",
-    "prod": "node ./src/server.prod.js"
+    "start:prod": "node ./src/server.prod.js",
   },
   "keywords": [],
   "author": "<https://github.com/Yasir-Hasann>",
